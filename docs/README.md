@@ -3,7 +3,7 @@
 A multi-page Aerospace Engineering Department website designed with HTML, CSS.  
 It showcases programs, faculty, research, and contact information in a professional layout.  
 
-🔗 Live Demo: [View Website](https://username.github.io/aerospace-department-website/)  
+🔗 Live Demo: [View Website](https://arul-prakash-m.github.io/Aerospace-Department-Website/)  
 
 
 
